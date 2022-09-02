@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/less-hw-react-10/static/css/main.f9a559b6.css",
+    "main.js": "/less-hw-react-10/static/js/main.d1da8cb9.js",
+    "index.html": "/less-hw-react-10/index.html",
+    "main.f9a559b6.css.map": "/less-hw-react-10/static/css/main.f9a559b6.css.map",
+    "main.d1da8cb9.js.map": "/less-hw-react-10/static/js/main.d1da8cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a559b6.css",
+    "static/js/main.d1da8cb9.js"
+  ]
+}
